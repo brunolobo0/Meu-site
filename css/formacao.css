@@ -114,10 +114,6 @@
   background: url("../img/cursos.svg") no-repeat center center;
 }
 
-.idiomas h3::before {
-  background: url("../img/idiomas.svg") no-repeat center center;
-}
-
 .formacao-extra li {
   font-size: 1.125rem;
   line-height: 1.1;
